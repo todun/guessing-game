@@ -1,5 +1,3 @@
-For the original, see: http://limitless-peak-1753.herokuapp.com/ by Jonathan Paulson
-
 ## Guessing Game
 > You are to write a program to play the following game:
 
@@ -10,3 +8,5 @@ For the original, see: http://limitless-peak-1753.herokuapp.com/ by Jonathan Pau
 > Obviously, you won't win all of the time. Your goal is to write a program that wins as often as possible. Your program will play 1,000,000 games, and its score is the number of games it wins.
 
 I've written the wrapper + a sample entrant here (if you don't mind CoffeeScript).  My best entry after about an hour of coding is ~0.82% win rate.  Can you do better?
+
+For the original writeup/game, see http://limitless-peak-1753.herokuapp.com/ by Jonathan Paulson
